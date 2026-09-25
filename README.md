@@ -68,7 +68,11 @@
 
 # 5\. Open the application through a local web server.
 
-# 
+#
+
+# \\## Preview
+# <img width="674" height="1001" alt="image" src="https://github.com/user-attachments/assets/af18103b-eb52-4207-a272-7954d54d0f8e" />
+
 
 # \## Note
 
